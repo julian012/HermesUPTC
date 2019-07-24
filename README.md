@@ -22,6 +22,9 @@ https://github.com/that-coder/kafka-example
 
 ### Explicación del middleware orientado a enventos por medio de kafka
 https://medium.com/@theotow/event-sourcing-with-kafka-and-nodejs-9787a8e47716
+
 https://www.alibabacloud.com/blog/an-overview-of-kafka-distributed-message-system_594218
+
 https://thatcoder.space/microservices-event-driven-architecture/
+
 https://thatcoder.space/getting-started-with-kafka-and-node-js-with-example/
