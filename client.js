@@ -5,7 +5,7 @@ const kafka = new Kafka({
   brokers: ['localhost:9092']
 })
 
-const consumer = kafka.consumer({ groupId: 'topico-prueba2' })
+const consumer = kafka.consumer({ groupId: 'topico-prueba' })
 
 const run = async () => {
 
